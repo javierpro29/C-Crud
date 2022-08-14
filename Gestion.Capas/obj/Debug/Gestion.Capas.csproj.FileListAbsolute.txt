@@ -1,0 +1,6 @@
+C:\Users\luis0\Desktop\SistemaV2\SistemaGestionV1\Gestion.Capas\bin\Debug\Gestion.Capas.dll
+C:\Users\luis0\Desktop\SistemaV2\SistemaGestionV1\Gestion.Capas\bin\Debug\Gestion.Capas.pdb
+C:\Users\luis0\Desktop\SistemaV2\SistemaGestionV1\Gestion.Capas\obj\Debug\Gestion.Capas.csproj.AssemblyReference.cache
+C:\Users\luis0\Desktop\SistemaV2\SistemaGestionV1\Gestion.Capas\obj\Debug\Gestion.Capas.csproj.CoreCompileInputs.cache
+C:\Users\luis0\Desktop\SistemaV2\SistemaGestionV1\Gestion.Capas\obj\Debug\Gestion.Capas.dll
+C:\Users\luis0\Desktop\SistemaV2\SistemaGestionV1\Gestion.Capas\obj\Debug\Gestion.Capas.pdb
